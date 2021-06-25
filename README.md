@@ -29,9 +29,9 @@
 
 ## Contatos
 
-<a href="https://www.linkedin.com/in/habbiner-andrade-4575081a2/" target="_black">
+<a href="https://www.linkedin.com/in/habbiner-andrade-4575081a2/" target="_blank">
   <img align="center" alt="icon-linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </a>
-  <a href="https://www.instagram.com/habbiner_andrade/" target="_black">
+  <a href="https://www.instagram.com/habbiner_andrade/" target="_blank">
   <img align="center" alt="icon-instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 </a>
