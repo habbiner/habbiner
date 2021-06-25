@@ -35,3 +35,5 @@
   <a href="https://www.instagram.com/habbiner_andrade/" target="_blank">
   <img align="center" alt="icon-instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 </a>
+    
+![Snake animation](https://github.com/habbiner/habbiner/blob/output/github-contribution-grid-snake.svg)
