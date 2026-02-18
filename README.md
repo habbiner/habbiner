@@ -36,9 +36,11 @@
 
 ### 🐍 Contribuições
 
-![Snake animation](https://github.com/habbiner/habbiner/blob/output/github-contribution-grid-snake.svg)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=habbiner&theme=tokyo-night&hide_border=true&area=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/habbiner/habbiner/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/habbiner/habbiner/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://github.com/habbiner/habbiner/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
