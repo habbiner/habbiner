@@ -13,11 +13,11 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habbiner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbiner&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habbiner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbiner&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=habbiner&theme=tokyonight&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=habbiner&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -37,6 +37,8 @@
 ### 🐍 Contribuições
 
 ![Snake animation](https://github.com/habbiner/habbiner/blob/output/github-contribution-grid-snake.svg)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=habbiner&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
