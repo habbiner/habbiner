@@ -10,41 +10,38 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 Estatísticas do GitHub
 
-<img src="https://github-profile-trophy.vercel.app/?username=habbiner&theme=radical&no-frame=true&row=1&column=6" alt="trophy" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habbiner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbiner&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=habbiner&theme=dracula&hide_border=true)
 
 ---
 
 ### 🛠️ Stack Tecnológica
 
-<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Vue.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="center" alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<div align="center">
+  ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+  ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
 ---
 
 ### 🐍 Cobrinha das Contribuições
 
-<img src="https://raw.githubusercontent.com/habbiner/habbiner/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+![Snake animation](https://raw.githubusercontent.com/habbiner/habbiner/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 💻 Linguagens Mais Usadas
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbiner&layout=compact&theme=radical&langs_count=8" alt="Top Langs" />
-
----
-
-### 📊 Estatísticas do Perfil
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=habbiner&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
-
----
-
-<img src="https://komarev.com/ghpvc/?username=habbiner&color=blueviolet&style=flat-square" alt="Profile views" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=habbiner&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
 
 </div>
